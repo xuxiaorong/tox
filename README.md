@@ -1,1 +1,1 @@
-## https://yoqoo.github.io/article/
+## https://yoqoo.github.io
